@@ -1,0 +1,6 @@
+springcloudeureka-server/target
+springcloudeureka-produce/target
+springcloudeureka-consume/target
+springcloudeureka-server/.idea
+springcloudeureka-produce/.idea
+springcloudeureka-consume/.idea

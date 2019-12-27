@@ -4,6 +4,6 @@ springcloudeureka-consume/target
 springcloudeureka-server/.idea
 springcloudeureka-produce/.idea
 springcloudeureka-consume/.idea
-springcloudeureka-server/*.iml
-springcloudeureka-produce/*.iml
-springcloudeureka-consume/*.iml
+springcloudeureka-server/springcloudeureka-server.iml
+springcloudeureka-consume/spring-cloud-eureka-produce.iml
+springcloudeureka-consume/springcloudeureka-consume.iml

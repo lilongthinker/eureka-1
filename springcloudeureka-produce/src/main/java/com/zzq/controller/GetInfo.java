@@ -13,12 +13,12 @@ public class GetInfo {
     public String getName(@PathVariable("name")String name){
 
         try {
-            Thread.sleep(10*1000);
+            Thread.sleep(1*10);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
-        return name + (new Date().getTime());
+        return name + (System.currentTimeMillis());
     }
 
 }
